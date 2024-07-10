@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **PHP,MYSQL,WEB DEVELOPMENT**
 
-- 📫 How to reach me **https://skirfan.com/**
+- 📫 How to reach me **skirfan.cse@skirfan.com*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
