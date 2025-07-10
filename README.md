@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://skirfan.com/](https://skirfan.com/)
 
-- 💬 Ask me about **PHP,MYSQL,WEB DEVELOPMENT**
+- 💬 Ask me about **PHP,MYSQL,WEB DEVELOPMENT,  FULL STACK DEVELOPMENT**
 
 - 📫 How to reach me *skirfan5748@gmail.com*
 
